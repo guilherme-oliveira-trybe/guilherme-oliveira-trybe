@@ -18,5 +18,5 @@
 <div>
   <a href="https://www.linkedin.com/in/guilherme-oliveira-28a8b467" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/guilherme-oliveira-trybe/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guilherme-oliveira-trybe/guilherme-oliveira-trybe/blob/output/github-contribution-grid-snake.svg)
 </div>  
