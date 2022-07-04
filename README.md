@@ -30,7 +30,7 @@ Se me perguntarem o motivo da minha mudança de carreira, a resposta é simples,
   </div>
   <h3>Minhas Redes Sociais</h3>
 <div>
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-28a8b467" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermeoliveirawebdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
