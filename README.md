@@ -6,8 +6,8 @@ Se me perguntarem o motivo da minha mudança de carreira, a resposta é simples,
   <h3>GitHubStats</h3>
 <div align="center">
   <a href="https://github.com/guilherme-oliveira-trybe">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-trybe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-trybe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-trybe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-trybe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
