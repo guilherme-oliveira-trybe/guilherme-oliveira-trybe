@@ -1,5 +1,5 @@
 ### Olá, eu sou o Guilherme Oliveira 👋
-Sou formado em Administração, mas atualmente estudo Desenvolvimento Web pela Trybe.
+Sou formado em Administração e Desenvolvedor Web Full Stack pela Trybe.
 Se me perguntarem o motivo da minha mudança de carreira, a resposta é simples, sempre achei fascinante o universo que envolve programação, assim com sempre adorei discutir planos e resolver problemas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-oliveira-trybe&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-oliveira-trybe" /> </p>
