@@ -5,11 +5,12 @@ Se me perguntarem o motivo da minha mudança de carreira, a resposta é simples,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-oliveira-trybe&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-oliveira-trybe" /> </p>
 
 ##
-  <h3>GitHubStats</h3>
+<h3>GitHubStats</h3>
 <div align="center">
   <a href="https://github.com/guilherme-oliveira-trybe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-trybe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=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"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-trybe&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-trybe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-trybe&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
   
   ##
